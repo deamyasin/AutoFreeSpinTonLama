@@ -9,6 +9,7 @@ git clone https://github.com/AirDropFamilyIDN/AutoFreeSpinTonLama.git
 cd AutoFreeSpinTonLama
 pip install -r requirements.txt
 python bot.py
+python paidspin.py
 
 ```
 - Paste kode reff mu :  0:aaxxxxxxxxx
